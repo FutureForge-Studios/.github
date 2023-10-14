@@ -1,6 +1,7 @@
 ## FutureForge Studios Private Limited
 
-![Image of a GIF of a cat sitting at a computer and coding](https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif)
+<img src="https://media.tenor.com/HqqJ3ScElisAAAAC/forging-a-sword-masters-of-the-universe-revelation.gif" width="450" alt="Image of a GIF of a robot forging a sword">
+![Image of a GIF of a robot forging a sword](https://media.tenor.com/HqqJ3ScElisAAAAC/forging-a-sword-masters-of-the-universe-revelation.gif)
 
 Welcome to FutureForge Studios, where we build the future, one line of code at a time!
 
@@ -30,7 +31,7 @@ No matter what your needs are, we have the skills and experience to help you ach
 
 **P.S.** We also have a great sense of humor!
 
-![Image of a GIF of a robot forging a sword](https://media.tenor.com/HqqJ3ScElisAAAAC/forging-a-sword-masters-of-the-universe-revelation.gif)
+![Image of a GIF of a cat sitting at a computer and coding](https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif)
 
 [![Follow us on GitHub](https://img.shields.io/badge/Follow-Us%20on%20GitHub-brightgreen)](https://github.com/YourOrganization)
 
