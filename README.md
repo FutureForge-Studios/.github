@@ -30,7 +30,7 @@ No matter what your needs are, we have the skills and experience to help you ach
 
 **P.S.** We also have a great sense of humor!
 
-![Image of a GIF of a cat sitting at a computer and coding](https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif)
+<img src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif" width="450" alt="Image of a GIF of a cat sitting at a computer and coding">
 
 [![Follow us on GitHub](https://img.shields.io/badge/Follow-Us%20on%20GitHub-brightgreen)](https://github.com/YourOrganization)
 
