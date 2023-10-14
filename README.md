@@ -1,7 +1,6 @@
 ## FutureForge Studios Private Limited
 
 <img src="https://media.tenor.com/HqqJ3ScElisAAAAC/forging-a-sword-masters-of-the-universe-revelation.gif" width="450" alt="Image of a GIF of a robot forging a sword">
-![Image of a GIF of a robot forging a sword](https://media.tenor.com/HqqJ3ScElisAAAAC/forging-a-sword-masters-of-the-universe-revelation.gif)
 
 Welcome to FutureForge Studios, where we build the future, one line of code at a time!
 
