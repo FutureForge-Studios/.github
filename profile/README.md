@@ -1,6 +1,7 @@
 # 🔨 FutureForge Studios Private Limited
 
-<img src="[https://c.tenor.com/5ry-200hErMAAAAC/tenor.gif](https://media1.tenor.com/m/5ry-200hErMAAAAC/hacker-hacker-man.gif)" width="450" alt="GIF of a futuristic forge hammering metal" />
+<img src="https://media1.tenor.com/m/5ry-200hErMAAAAC/hacker-hacker-man.gif" width="450" alt="GIF of a futuristic forge hammering metal" />
+
 
 
 **Welcome to FutureForge Studios** — where innovation gets hammered into reality 🔥  
