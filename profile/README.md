@@ -1,6 +1,6 @@
 # 🔨 FutureForge Studios Private Limited
 
-<img src="https://media.tenor.com/2pdcTqM7BFIAAAAC/anvil-forge.gif" width="450" alt="GIF of a futuristic forge hammering metal" />
+<img src="https://c.tenor.com/5ry-200hErMAAAAC/tenor.gif" width="450" alt="GIF of a futuristic forge hammering metal" />
 
 **Welcome to FutureForge Studios** — where innovation gets hammered into reality 🔥  
 We’re not just coders — we’re digital blacksmiths shaping the future with every keystroke.
