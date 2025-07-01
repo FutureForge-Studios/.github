@@ -1,8 +1,6 @@
 # 🔨 FutureForge Studios Private Limited
 
-<img src="https://media1.tenor.com/m/5ry-200hErMAAAAC/hacker-hacker-man.gif" width="450" alt="GIF of a futuristic forge hammering metal" />
-
-
+<img src="https://media.tenor.com/HqqJ3ScElisAAAAC/forging-a-sword-masters-of-the-universe-revelation.gif" width="450" alt="Image of a GIF of a robot forging a sword">
 
 **Welcome to FutureForge Studios** — where innovation gets hammered into reality 🔥  
 We’re not just coders — we’re digital blacksmiths shaping the future with every keystroke.
@@ -74,7 +72,7 @@ We don’t just dabble — we deliver. Here’s what we specialize in:
 
 ---
 
-<img src="https://media.tenor.com/Y7mpmUu4FDoAAAAC/hackerman-coding.gif" width="450" alt="GIF of a confident coder at a PC with Hackerman vibe" />
+<img src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif" width="450" alt="Image of a GIF of a cat sitting at a computer and coding">
 
 ---
 
